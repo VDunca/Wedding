@@ -51,12 +51,6 @@ export default function Index() {
             >
               Login
             </Link>
-            <Link
-              to="/join"
-              className="flex w-auto items-center justify-center rounded-md bg-gray-300 bg-slate-400 bg-opacity-60 px-4 py-3 font-medium text-white hover:bg-opacity-90"
-            >
-              Register
-            </Link>
           </div>
         )}
       </div>
