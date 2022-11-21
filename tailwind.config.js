@@ -14,7 +14,8 @@ module.exports = {
       'baner-start': "url('/images/header/startsidabak.jpg')"   
       },
       fontFamily:{
-      'josefin-Regular': ['"Josefin Sans"', 'sans-serif']
+        'josefin-Regular': ['"Josefin Sans"', 'sans-serif'],
+        'josefin-Thin': ['"Josefin Sans"', 'sans-serif']
       },
    
    }
@@ -23,4 +24,3 @@ module.exports = {
 };
 
 
-// url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap')

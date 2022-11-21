@@ -15,9 +15,13 @@ import { getUser } from "./session.server";
 export const links: LinksFunction = () => {
   return [
     { rel: "stylesheet", href: tailwindStylesheetUrl },
+    // {
+    //   rel: "stylesheet",
+    //   href: "https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap",
+    // },
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap",
+      href: "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400&display=swap",
     },
   ];
 };

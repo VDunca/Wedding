@@ -11,7 +11,7 @@ export default function Index() {
             <div className="absolute inset-0 bg-gray-300 bg-opacity-80 " />
             <div className="item-center relative px-4 pt-16 pb-16  lg:px-8 lg:pb-64 lg:pt-64">
               <h1 className="text-center text-4xl font-extrabold tracking-tight md:text-6xl lg:text-9xl">
-                <span className="  font-josefin-Regular uppercase text-black text-opacity-80 drop-shadow-md">
+                <span className="  font-josefin-Regular  font-thin uppercase text-black text-opacity-80 ">
                   l o v e & t h a n k s
                 </span>
               </h1>
