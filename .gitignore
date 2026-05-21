@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+<<<<<<< Updated upstream
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -102,3 +103,17 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+/.cache
+/build
+/public/build
+.env
+.env.*
+!.env.example
+
+/prisma/data.db
+/prisma/data.db-journal
+
+.DS_Store
+.react-router/
+>>>>>>> Stashed changes
